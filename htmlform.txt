@@ -1,0 +1,24 @@
+<!DOCTYPE html >
+<html>
+<h1>HTML FORM</h1>
+
+    <body>
+        <form>
+            <p>
+            <label for="firstname">First name</label>
+            <br>
+            <input type="text" id="name" name="firstname" value="Fatimah">
+            <br>
+            <label for="lastname">Last number</label>
+            <br>
+            <input type="text" id="name" name="lastname" value="Wani">
+            <br>
+            <label for="email">E-mail</label>
+            <input type="text" id="E-mail" value="kaneezfatimah489@gmail.com">
+            <br>
+            <input type="submit" value=Submit>
+            <input type="reset" value="RESEt"
+
+            </p>
+        </form>
+    </body></html>
